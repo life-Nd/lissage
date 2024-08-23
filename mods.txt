@@ -1,0 +1,67 @@
+
+1. Index.html:
+  - À propos de nous
+  - Indiquer  que c'est un salon de coiffure
+  
+
+
+Modifications pour le site web :
+
+
+Je ne sais pas s’il serait mieux d’indiquer pour les prix pour tous les services ex : 50 et plus Ou à partir de 50$ ?
+Nous avons eu plusieurs fois des problèmes avec des clients qui ne lisent pas ou qui ne comprennent pas que 50+ veut dire à partir de 50$ et ils s’obstinent à la caisse pour payer le prix demandé. J’Aimerais clarifier ceci pour ne pas avoir ce problème
+Frange corriger prix : 15+
+Coloration retouche des racines = 85+
+Coloration complète = 115+
+Nuanceur (Toner) 45+
+
+
+La page ‘’réservez votre visite’’: 
+
+Corrections : 
+
+J’aimerais que reservation square soit ajouté ici afin de faciliter la réservation et prévenir le dédoublement de travail. Actuellement je reçoit les informations à travers le gmail et je dois ensuite les entrer dans mon square system. 
+
+Retirer le commentaire en rouge svp puisque nous ne sommes pas ouvert le dimanche (Service de botox et PRP retiré) 
+
+Peut-être que les services de coiffure devraient être à gauche et mettre a droite les lissages afin de mettre l’emphase sur la coiffure ? 
+Corriger les prix svp sur cette liste de service 
+Frange corriger prix : 15+
+Retouche des racines = 85+
+Coloration complète = 115+
+Nuanceur (Toner) 45+
+
+Dans la section Masques capillaires : Retirer Masque capillaire – 15+ 
+Corriger les prix svp sur cette liste de service 
+Mèches partielles = 185+
+Mèches complètes= 255$+
+Couleur + Mèches partielles = 265$+
+Couleur + Mèches complètes= 335$+
+
+Le titre pour les services suivants devrait être : Extensions capillaires et Tresses Africaines
+Extensions capillaires – Prix après consultation gratuite (devrait être sur la même ligne)
+ Tresses africaines $80 et +
+ Rallonges Box Braids $275 et +
+ Extensions Africaines $100 et +
+ Pose de Perruque $60 et +
+
+Sous Facial
+Corriger prix et changer le nom pour ceci: 
+Soins du visage de base - 130$ et plus = Facial visage éclat intense 130
+ 
+Sous Remodelage corporel
+Retirer (dupliquer car ils sont déjà présents sous nutrition)
+ Consultation Initiale Nutrition $170
+ Suivi Consultation Nutrition $130
+
+Sous traitements esthétiques 
+Retirer les 2 services non offerts : 
+ Injection de Neuromodulateur (Botox)  
+ PRP (Plasma Riche en Plaquettes) 
+
+
+Changer la description pour soins du visage anti-âge (remplacer le nom facial anti-âge) 
+Car ce n’est pas un facial, c’est un soin
+
+Retirer les 2 services suivants qui ne sont plus offert pour l’instant Sous service - esthétique
+
